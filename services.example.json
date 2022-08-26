@@ -1,0 +1,10 @@
+{
+  "port": 3235,
+  "apiKey": "asdkfhkjhekhls",
+  "services": [
+    {
+      "name": "sonarr",
+      "log": "/cfg/sonarr/logs/sonarr.txt"
+    }
+  ]
+}
